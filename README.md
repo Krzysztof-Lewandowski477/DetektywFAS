@@ -1,6 +1,5 @@
-# DetektywFAS
 
-# DetektywFAS project.
+# DetektywFAS website.
  
 
 ## Table of contents
